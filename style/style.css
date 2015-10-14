@@ -1,0 +1,379 @@
+
+html { 
+  background-color: white;
+  background-size: cover;
+  font-family:"futura bk bt";
+  
+}
+
+a {
+
+
+font-size:1em;
+color:#D24DFF;
+margin:0px;
+padding:0px;
+text-decoration: none;
+
+}
+
+
+#container
+{
+padding: 0px;
+margin: 0px;
+width: 100%;
+
+margin-top:0%;
+text-align: center;
+position: relative;
+}
+
+#resume{
+
+position: absolute;
+left:60%;
+bottom:30%;
+}
+#start{
+
+position: absolute;
+left:10%;
+bottom:30%;
+}
+
+#apt{
+z-index: 20;
+position: absolute;
+bottom: 20%;
+left:20%;
+}
+
+
+.bever{
+z-index: 20;
+position: absolute;
+top: 15%;
+left:6%;
+}
+
+#out{
+background-size: cover;
+z-index: 20;
+position: absolute;
+top: 20%;
+left:7%;
+}
+
+
+#pc{
+z-index: 20;
+position: absolute;
+top: 25%;
+right:34%;
+}
+
+#sleep{
+z-index: 20;
+position: absolute;
+bottom: 40%;
+right:5%;
+}
+
+
+
+
+#screen {
+position: relative;
+width:900px;
+height:596px;
+display:inline-block;
+
+	 }
+#gamer {
+
+height:Auto;
+width: 100%;
+
+}
+.gamer{
+
+height:Auto;
+width: 100%;
+}
+
+
+#inf{
+
+position:absolute;
+top:1.5%;
+z-index:29;
+font-size:2.1em;
+color:#4DA6FF;
+margin:0px;
+padding:0px;
+
+}
+
+#right{
+
+position:absolute;
+top:1.5%;
+right: 10%;
+z-index:29;
+font-size:1em;
+color:#D24DFF;
+margin:0px;
+padding:0px;
+text-decoration: none;
+
+}
+
+#left{
+
+position:absolute;
+top:1.5%;
+left: 10%;
+z-index:29;
+font-size:1em;
+color:#D24DFF;
+margin:0px;
+padding:0px;
+text-decoration: none;
+
+}
+
+
+
+.signupinput1 {
+
+z-index: 20;
+position: absolute;
+top: 40%;
+left:25%;
+width:50%;
+height:10%;
+font-size:2.5em;
+color:#E3249D;
+}
+
+.signupinput2 {
+
+z-index: 20;
+position: absolute;
+top: 60%;
+left:25%;
+width:50%;
+height:10%;
+font-size:3em;
+color:#D18FD9;
+}
+
+.signupinput3 {
+
+z-index: 20;
+position: absolute;
+top: 80%;
+left:25%;
+width:50%;
+height:10%;
+font-size:65px;
+}
+
+
+
+/*selec character page  grid*/
+
+#skrillex{
+z-index: 19;
+position: absolute;
+top: 16%;
+left:3%;
+
+
+}
+#gaga{
+z-index: 19;
+position: absolute;
+top: 16%;
+left:35%;
+}
+
+#record{
+z-index: 19;
+position: absolute;
+top: 14%;
+left:4%;
+}
+
+#tube{
+z-index: 19;
+position: absolute;
+top: 14%;
+right:4.2%;
+}
+
+#disco{
+z-index: 19;
+position: absolute;
+top: 57.2%;
+left:4%;
+}
+
+#dpad{
+z-index: 19;
+position: absolute;
+top: 57.2%;
+right:4.2%;
+}
+
+#levine{
+z-index: 19;
+position: absolute;
+top: 16%;
+left:68%;
+
+
+}
+#rihanna{
+z-index: 19;
+position: absolute;
+top: 61%;
+left:3%;
+
+
+}
+#hurts{
+z-index: 19;
+position: absolute;
+top: 61%;
+left:35%;
+
+
+}
+#lana{
+z-index: 19;
+position: absolute;
+top: 61%;
+left:68%;
+
+
+}
+
+/* dpad stuff */
+#avatar{
+position:absolute;
+top: 10%;
+left: 0%;
+z-index:20;
+
+}
+
+#frame{
+position:absolute;
+top: 10%;
+left: 0%;
+z-index:0;
+
+}
+#playbt{
+z-index: 20;
+position: absolute;
+bottom: 20%;
+left:20%;
+
+}
+#pausebt{
+z-index: 20;
+position: absolute;
+bottom: 20%;
+left:20%;
+
+}
+#dpadinfo{
+position:absolute;
+top: 15%;
+left: 5%;
+z-index:22;
+width:57%;
+float:left;
+color:#FEE0FF;
+  
+font-size: 2em;
+
+}
+
+#recpan{
+position:absolute;
+top: 15%;
+left: 5%;
+z-index:22;
+width:300px;
+height:516px;
+float:left;
+color:#FEE0FF;
+ background: black;
+opacity:0.8; 
+font-size: 1.1em;
+}
+#playlist{
+position:absolute;
+padding-top:20px;
+top: 14.8%;
+right: 5%;
+z-index:22;
+width:300px;
+height:499px;
+float:left;
+color:#FEE0FF;
+ background: black;
+opacity:0.8; 
+font-size: 1.5em;
+overflow: auto;
+}
+
+#libpan{
+position:absolute;
+top: 14.8%;
+left: 21%;
+z-index:22;
+width:57%;
+height:519px;
+overflow:auto;
+float:left;
+color:#FEE0FF;
+ background: black;
+opacity:0.8; 
+font-size: 2em;
+}
+
+
+#playpan{
+position:absolute;
+top: 25%;
+left: 5%;
+z-index:22;
+width:400px;
+height:400px;
+overflow:auto;
+float:left;
+color:#FEE0FF;
+ background: black;
+opacity:0.8; 
+font-size: 2em;
+}
+
+#lyricpan{
+position:absolute;
+top: 15%;
+right: 5%;
+z-index:22;
+width:450px;
+height:516px;
+overflow:auto;
+float:left;
+color:#FEE0FF;
+ background: black;
+opacity:0.8; 
+font-size: 1em;
+}
