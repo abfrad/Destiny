@@ -1,15 +1,16 @@
 # Destiny
-
 Installing Destiny in the Web Server
 ------------------------------------
-#Requirements
+Requirements:
+
 Web Service
+
 PHP
+
 MySQL Server 
 
-Installation
 ------------------------------------
-
+Installation:
 
 1. Copy the 'Destiny' folder in the Web server default directory.
 
