@@ -23,9 +23,12 @@ signupc.php
 
 Open them with a text editor like notepad, enter your MySQL sever Host, Username and Password in each file inside the "" quotation marks and save.
 
+<code>
 $host       = "";
 $username   = "";
 $password   = "";
+</code>
+
 
 3. Open your MySQL server command line and create a database named 'Destiny'.
 
