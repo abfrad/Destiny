@@ -32,15 +32,15 @@ $password   = "";
 
 3. Open your MySQL server command line and create a database named 'Destiny'.
 
-CREATE DATABASE Destiny;
+<code> CREATE DATABASE Destiny; </code>
 
 4. Close the MySQL command line and enter the command line console of the server and enter the following command.
 
-mysql -u [your mySQL username] -p[your mysql password] Destiny < [the path to destiny.sql file inside DestinyProject folder]
+<code> mysql -u [your mySQL username] -p[your mysql password] Destiny < [the path to destiny.sql file inside DestinyProject folder] </code>
 
 for Example
 
-mysql -u root -p123 Destiny < C:\DestinyProject\destiny.sql
+<code> mysql -u root -p123 Destiny < C:\DestinyProject\destiny.sql </code>
 
 
 Congratulations! the installation is done!
